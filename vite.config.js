@@ -471,5 +471,5 @@ export default defineConfig({
       }
     }),
   ],
-  base: "https://ernestolimon.github.io/model-2d-with-threejs/"
+ // base: "https://ernestolimon.github.io/model-2d-with-threejs/"
 });
